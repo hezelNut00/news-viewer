@@ -4,4 +4,4 @@
 426 error
 
 ### 해결 방법
-외부 뉴스 API 유료 결제
+newsAPI 유료 API키 발급
